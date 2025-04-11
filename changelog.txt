@@ -6,3 +6,7 @@ Version 1.0.1:
   added "Done!" Statements
 Version 1.0.2:
   Fixed Formatting Not Updating Disk Info
+BananaOS Version 1.0.3:
+  Added BananaBBS Support
+BananaBBS 1.0:
+  Released BananaBBS Runs On Port 2525
