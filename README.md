@@ -5,6 +5,7 @@ disk (shows disk info)
 format (formats virtual disk (still working on changing disk info after format))
 shutdown (guess what it does)
 ls (shows directory)
+netconfig (configures ip (not actually) for future use)
 
 
 Login is: user:sky pass:kalli
