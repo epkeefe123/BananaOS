@@ -6,7 +6,7 @@ format (formats virtual disk)
 shutdown (guess what it does)
 ls (shows directory)
 netconfig (configures ip (not actually) for future use)
-
+dialup (connects to BananaBBS using port 2525)
 
 Login is: user:sky pass:kalli
 
