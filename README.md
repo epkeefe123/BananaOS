@@ -2,7 +2,7 @@ BananaOS.py is for Linux and Windows (Though not tested on windows)
 
 full Windows support will be added soon (next 2 weeks or so)
 
-commands for BananaOS (Linux):
+commands for BananaOS:
 
 disk (shows disk info)
 
