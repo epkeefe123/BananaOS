@@ -4,3 +4,5 @@ Version 1.0:
 Version 1.0.1:
   New Cmds (netconfig)
   added "Done!" Statements
+Version 1.0.2:
+  Fixed Formatting Not Updating Disk Info
