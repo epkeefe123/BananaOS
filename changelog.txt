@@ -1,3 +1,6 @@
 Version 1.0:
-Release On GitHub!!!
-  Linux Only Until ver 1.2 :(
+  Release On GitHub!!!
+    Linux Only Until ver 1.2 :(
+Version 1.0.1:
+  New Cmds (netconfig)
+  added "Done!" Statements
