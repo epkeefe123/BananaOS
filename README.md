@@ -5,3 +5,6 @@ disk (shows disk info)
 format (formats virtual disk (still working on changing disk info after format))
 shutdown (guess what it does)
 ls (shows directory)
+
+
+Login is: user:sky pass:kalli
