@@ -1,6 +1,6 @@
-BananaOS.py is for Linux
+BananaOS.py is for Linux and Windows (Though not tested on windows)
 
-windows support will be added soon (next 2 weeks or so)
+full Windows support will be added soon (next 2 weeks or so)
 
 commands for idk.py (Linux):
 
